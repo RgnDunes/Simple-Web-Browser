@@ -1,0 +1,11 @@
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojAssemblyReference.cache
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.cache
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
+C:\Users\KIIT\Desktop\current workspace\C#\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form2.resources
